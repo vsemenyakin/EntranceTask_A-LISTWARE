@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "R3-4.27.2-cc5569fd",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "A_LISTWARE",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
