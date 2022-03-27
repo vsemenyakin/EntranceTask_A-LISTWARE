@@ -1,0 +1,2 @@
+- Printing of Matrix is peroformed by using Text with Fitting Background
+- Margins may be tests be selecting any of placed Text with Fitting Background Actors (TextFitActor_Matrix or TextFitActor_SpiralPrint) and changing Debug Margins value in Actor instance properties
